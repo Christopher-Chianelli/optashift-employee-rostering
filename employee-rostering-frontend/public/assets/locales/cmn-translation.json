@@ -219,7 +219,7 @@
   },
 
   "rotationDay": "天 {{day}}",
-  "shiftTemplate": "{{spot}}, {{rotationEmployee}}, 从 {{startTime}} 轮换的 {{dayStart}} 开始, 到 {{endTime}} 轮换的Day {{dayEnd}}结束。",
+  "shiftTemplate": "{{spot}}, {{rotationEmployee}}, 轮换的 {{dayStart}} 从 {{startTime}} 开始, 到轮换的天 {{dayEnd}} 的 {{endTime}} 结束。",
 
   "add": "加",
   "close": "关",
